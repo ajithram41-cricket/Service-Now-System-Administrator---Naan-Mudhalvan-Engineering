@@ -1,8 +1,8 @@
 # 📊 Import Data using Transform Maps (Spreadsheet)
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-System%20Administrator-62D84E?logo=servicenow&logoColor=white)
-![Course](https://img.shields.io/badge/Course-NM%20Eng-blue)
-![Institution](https://img.shields.io/badge/Institution-Latha%20Mathavan%20Engineering%20College-orange)
+![ServiceNow]([https://img.shields.io/badge/ServiceNow-System%20Administrator-62D84E?logo=servicenow&logoColor=white](https://developer.servicenow.com/dev.do#!/manage-instance))
+![Course]([https://img.shields.io/badge/Course-NM%20Eng-blue](https://www.skilldevelopment.tn.gov.in/?logout=true))
+![Institution]([https://img.shields.io/badge/Institution-Latha%20Mathavan%20Engineering%20College-orange](https://www.lathamathavan.edu.in/engineering/))
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
